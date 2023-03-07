@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(112,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(439,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Estructura de Datos 1er Entrega.vcxproj -> C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\x64\Debug\Estructura de Datos 1er Entrega.exe
